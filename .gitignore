@@ -1,0 +1,3 @@
+# ignore virual environment
+venv/
+env/
