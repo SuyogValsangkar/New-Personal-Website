@@ -11,8 +11,6 @@ Welcome to my website, here you can find:
 - Contact Information
 
 ## Access Website
-[1]: https://example.com "Optional title"
-
----
+[1]: https://youtube.com "Optional title"
 
 Last updated: 2025-10-02
